@@ -1,0 +1,7 @@
+Flikart Scenario
+login
+search
+select
+add to cart
+place order
+logout
